@@ -58,7 +58,8 @@ a, b = b, c  # Ahora, a toma el valor de b y b toma el valor de c
 # ------------------------------
 # Tipos de Variables Mutables e Inmutables
 # ------------------------------
-# **Inmutables**: Su contenido no se puede cambiar después de haber sido creado. Ejemplos: `int`, `float`, `str`, `tuple`.
+# **Inmutables**: Su contenido no se puede cambiar después de haber sido creado. Ejemplos: `int`, `float`, 
+# `str`, `tuple`.
 # **Mutables**: Su contenido puede cambiar después de haber sido creado. Ejemplos: `list`, `dict`, `set`.
 
 # Ejemplos de tipos inmutables:
@@ -102,7 +103,10 @@ print(f"Edad actualizada: {edad + 1}")  # Salida: Edad actualizada: 24
 # ------------------------------
 # Notas Adicionales
 # ------------------------------
-# 1. Evitar usar nombres de variables que puedan entrar en conflicto con palabras clave de Python (como `def`, `for`, `class`, etc.).
-# 2. Mantén tu código limpio y organizado comentando adecuadamente y utilizando nombres descriptivos para tus variables.
-# 3. Si trabajas con grandes bloques de código, agrupa tus variables por contexto o funcionalidad para mejorar la legibilidad.
+# 1. Evitar usar nombres de variables que puedan entrar en conflicto con palabras clave de Python 
+# (como `def`, `for`, `class`, etc.).
+# 2. Mantén tu código limpio y organizado comentando adecuadamente y utilizando nombres descriptivos 
+# para tus variables.
+# 3. Si trabajas con grandes bloques de código, agrupa tus variables por contexto o funcionalidad para 
+# mejorar la legibilidad.
 
